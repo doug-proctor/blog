@@ -5,4 +5,6 @@ description: A test description
 ---
 Wowwee. 
 
+<div style="color: red;">I'm red</div>
+
 ![](mooon.png)
